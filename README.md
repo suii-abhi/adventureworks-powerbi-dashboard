@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing three years of AdventureWorks sales (July 2017 to June 2020). I built it to practise data modelling, DAX and dashboard design on a realistic multi-table dataset.
 
-![Dashboard screenshot](dashboard.png)
+![Dashboard screenshot](dashboard_screenshot.png)
 
 ## Tools
 
